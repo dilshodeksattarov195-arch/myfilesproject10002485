@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvalidate",
+        "uuid": 10615920,
+        "checksum": "npitqo"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
